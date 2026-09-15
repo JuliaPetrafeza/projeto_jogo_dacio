@@ -9,7 +9,6 @@ O projeto consiste em um sistema que imita o jogo "Bob the robber" que será rod
 1. Ao iniciar o programa, o usuário visualizará todos os andares de um prédio:
   - `É um visão simplificada como se o e difício fosse cortado ao meio`
   - `Os andares são conectados por escadas`
-  - `Existem também pontos de sombra que funcionam como esconderijo`
 
 2. O usuário pode "descer" e "subir" atrvés das setas do teclado, assim mudando de andar, fugindo do guarda e completando o desafio
 
