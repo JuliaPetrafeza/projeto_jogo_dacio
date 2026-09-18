@@ -30,16 +30,21 @@ O projeto consiste em um sistema que imita o jogo "Bob the robber", que será ex
 
 ## 4.Estrutura de dados
 
+```c
+//estrutura da posição do jogador
 struct Jogador {
     int x;
     int y;
     int possuiDinheiro;
 }
 
+//estrutura posição Guarda
 struct Guarda {
     int x;
     int y;
 }
+
+//estrutura posição dinheiro
 struct Dinheiro {
     int x;
     int y;
